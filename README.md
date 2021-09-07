@@ -6,8 +6,9 @@ Nossa intenção é entender seu conhecimento técnico, para isso temos este des
 
 ## Orientações
 Cenário
-Um grande rede varejista irá necessitar recadastrar todos os seus fornecedores de todo o Brasil, será necessário garantir a qualidade e funcionamento adequado do formulário para cadastro destas empresas.
-Fomulário: https://test-web-dev.azurewebsites.net/ (user: kcms, pwd: 123456), os formulários são adicionar e consultar.
+Um grande franquia de fast food irá necessitar cadastrar todos os seus produtos, será necessário garantir a qualidade e funcionamento adequado do formulário para cadastro destes produtos.
+Acesso a plataforma: https://app.kcms.com.br/ (user: desafiotester@kcms.com.br, pwd: TesterDesafio*)
+Menu: Materiais --> Produtos (Cardápio)
 
 ### Desafio
 
@@ -22,7 +23,6 @@ Fomulário: https://test-web-dev.azurewebsites.net/ (user: kcms, pwd: 123456), o
 * A cobertura dos testes.
 
 ### Insights
-
 * Utilize as ferramentas a seu gosto e critério;
 
 ### O que deve ser entregue?

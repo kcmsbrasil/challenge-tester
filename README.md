@@ -1,7 +1,7 @@
 # Challenge - Tester
 
 Woow! Parabéns em chegar nesta etapa do processo!
-Nossa intenção é entender seu conhecimento técnico, para isso temos este desafio.
+Nossa intenção é entender seu conhecimento técnico, para isso temos este desafio. O desafio é para todos os níveis!
 
 
 ## Orientações
